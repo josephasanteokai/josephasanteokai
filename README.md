@@ -36,9 +36,9 @@ I'm passionate about creating software that **delivers real value**. These are t
 
 As part of the ALX Pro Frontend Dev program, I’m currently focused on:
 
-- HTML5, CSS3, JavaScript ES6+
-- Responsive Design with Flexbox and Grid
-- Working with APIs and JSON
+- React.js React Native
+- Typescript
+- Working with APIs and Next.js
 - Git & GitHub for collaboration
 - AI tools like ChatGPT for productivity and code assistance
 
@@ -46,9 +46,8 @@ As part of the ALX Pro Frontend Dev program, I’m currently focused on:
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- ✉️ Email: yourname@email.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joseph-okai-721803273)   
+- ✉️ Email: josephasanteokai@gmail.com 
 - 🌍 Portfolio: Coming soon...
 
 ---
